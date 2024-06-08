@@ -1,6 +1,6 @@
 # Text-Formality-Classification (Fine-Tuning DeBerta)
 
-This project is based from the following paper: https://arxiv.org/pdf/2204.08975. This paper by Dementieva et al. (2023), discuses and evaluates various methods to detect formality across text in different languages. The paper utilizes various transformer based and BERT-based models and report the findings of which models have the highest accuracy in detecting text formality. 
+This project is based from the following paper: https://arxiv.org/pdf/2204.08975. This paper by Dementieva et al. (2023), discuses and evaluates various methods to detect formality across text in different languages. The paper utilizes various transformer based and BERT-based models and report the findings of which models have the highest accuracy in detecting text formality by leveraging the GYAFC corpus dataset.
 
 Taking this paper a step further, the main aim was to improve contextual understanding by developing a formality score scale of 0 to 1 and making further accurate sentence predictions. More detail in the Jupyter Notebook.
 
